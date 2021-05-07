@@ -4,8 +4,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Billmvp73&repo=441-sailors)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Xinyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinyunshen&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinyunshen&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinyunshen&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Xinyun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xinyunshen)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **XinyunShen/XinyunSHEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
