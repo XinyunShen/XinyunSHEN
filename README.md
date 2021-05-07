@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Xinyun
 - Just graduated from UMich and going to pursue graduate's degree at UCI.
+- I'm super into Machine learning, data mining.
+- Hope to make a difference to the world.
 
 <a href="https://github.com/xinyunshen/Treasure-IOS-APP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xinyunshen&repo=Treasure-IOS-APP&theme=omni" />
