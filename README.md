@@ -7,8 +7,8 @@
 <a href="https://github.com/xinyunshen/Treasure-IOS-APP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xinyunshen&repo=Treasure-IOS-APP&theme=omni" />
 </a>
-<a href="https://github.com/xinyunshen/Community-Detection-for-Wallstreetbets">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xinyunshen&repo=Community-Detection-for-Wallstreetbets&theme=omni" />
+<a href="https://github.com/xinyunshen/Community-Detection-Wallstreetbets">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xinyunshen&repo=Community-Detection-Wallstreetbets&theme=omni" />
 </a>
 
 
