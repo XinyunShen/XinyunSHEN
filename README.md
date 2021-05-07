@@ -8,8 +8,6 @@
 
 ![Xinyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinyunshen&show_icons=true&theme=dracula&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinyunshen&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Xinyun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xinyunshen)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
