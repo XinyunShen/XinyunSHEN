@@ -4,7 +4,6 @@
 <a href="https://github.com/xinyunshen/441-Sailors">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xinyunshen&repo=441-sailors&theme=omni" />
 </a>
-This is an ios game app involving VR, puzzle-solving, and many other fancy features
 
 ![Xinyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinyunshen&show_icons=true&theme=dracula&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinyunshen&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
