@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Xinyun
 - Just graduated from UMich and going to pursue graduate's degree at UCI.
 
-<a href="https://github.com/Billmvp73/441-Sailors">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Billmvp73&repo=441-sailors&theme=omni" />
+<a href="https://github.com/xinyunshen/441-Sailors">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xinyunshen&repo=441-sailors&theme=omni" />
 </a>
 
 ![Xinyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinyunshen&show_icons=true&theme=dracula&count_private=true)
