@@ -1,9 +1,6 @@
 ### Hi there 👋 I'm Xinyun
 - Just graduated from UMich and going to pursue graduate's degree at UCI.
 
-<a href="https://github.com/xinyunshen/441-Sailors">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xinyunshen&repo=441-sailors&theme=omni" />
-</a>
 
 This is an ios game app involving VR, puzzle-solving, and many other fancy features
 
