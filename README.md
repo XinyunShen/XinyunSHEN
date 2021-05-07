@@ -1,11 +1,16 @@
 ### Hi there 👋 I'm Xinyun
 - Just graduated from UMich and going to pursue graduate's degree at UCI.
-- I'm super into Machine learning, data mining.
+- Super into Machine learning, and data mining.
 - Hope to make a difference to the world.
+
 
 <a href="https://github.com/xinyunshen/Treasure-IOS-APP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xinyunshen&repo=Treasure-IOS-APP&theme=omni" />
 </a>
+<a href="https://github.com/xinyunshen/Community-Detection-for-Wallstreetbets">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xinyunshen&repo=Community-Detection-for-Wallstreetbets&theme=omni" />
+</a>
+
 
 
 ![Xinyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinyunshen&show_icons=true&theme=dracula&count_private=true)
