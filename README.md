@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Xinyun
+- Just graduated from UMich and going to pursue graduate's degree at UCI.
+
+![Xinyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinyunshen&show_icons=true&theme=radical)
 
 <!--
 **XinyunShen/XinyunSHEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
