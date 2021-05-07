@@ -3,9 +3,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Billmvp73&repo=441-sailors)](https://github.com/anuraghazra/github-readme-stats)
 
-![Xinyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinyunshen&show_icons=true&theme=gradient&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinyunshen&layout=compact&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
-[![Xinyun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xinyunshen&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+![Xinyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinyunshen&show_icons=true&theme=tokyonight&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinyunshen&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Xinyun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xinyunshen&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **XinyunShen/XinyunSHEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
