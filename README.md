@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Xinyun
-- Just graduated from UMich and going to pursue graduate's degree at UCI.
+- Just graduated from UMich.
 - Super into Machine learning, and data mining.
 - Hope to make a difference to the world.
 
