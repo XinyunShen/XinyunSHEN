@@ -10,6 +10,10 @@
 <a href="https://github.com/xinyunshen/Community-Detection-Wallstreetbets">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xinyunshen&repo=Community-Detection-Wallstreetbets&theme=omni" />
 </a>
+<a href="https://github.com/XinyunShen/Sentiment-Analysis-of-r-uofm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xinyunshen&repo=Sentiment-Analysis-of-r-uofm&theme=omni" />
+</a>
+
 
 
 ### My Github stats
