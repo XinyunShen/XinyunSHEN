@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Xinyun
 - Just graduated from UMich.
-- Super into Machine learning, and data mining.
+- Super into Machine learning, deep learning and data mining.
 - Hope to make a difference to the world.
 
 ### My Repositories
